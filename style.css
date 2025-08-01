@@ -1,0 +1,58 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f8f9fa;
+        }
+        
+        .food-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+        
+        .cart-item-enter {
+            animation: slideIn 0.3s ease-out forwards;
+        }
+        
+        .cart-item-exit {
+            animation: slideOut 0.3s ease-out forwards;
+        }
+        
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateX(20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+        
+        @keyframes slideOut {
+            from { opacity: 1; transform: translateX(0); }
+            to { opacity: 0; transform: translateX(20px); }
+        }
+        
+        .food-category.active {
+            background-color: #f97316;
+            color: white;
+        }
+
+       .login-modal, .address-modal {
+          display: none;
+          background-color: rgba(0,0,0,0.5);
+       }
+       .login-modal.active, .address-modal.active {
+      display: flex;
+       }
+       .login-tab.active {
+        background-color: #fff;
+        color: #dc2626;
+        border-bottom-color: #dc2626;
+      }
+
+      .input-error {
+      border-color: #ef4444;
+      }
+      .error-message {
+       color: #ef4444;
+       font-size: 0.875rem;
+      }
+      .address-preview {
+       border-left: 4px solid #dc2626;
+      }
