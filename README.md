@@ -70,7 +70,7 @@ For any inquiries or feedback, please contact:
 
 Email: shristys304@gmail.com
 
-GitHub: Shristy0826
+GitHub UserName: Shristy0826
 
 Github Link: https://github.com/Shristy0826/food_ordering_website.git
 
