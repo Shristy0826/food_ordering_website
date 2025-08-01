@@ -61,7 +61,12 @@ Enter your delivery address and confirm your order.
   <div class="absolute inset-0 bg-black opacity-40"></div>
         <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/7b6d78e0-5cc9-4c92-b7c6-ee57101d378c.png" alt="Delicious food spread including pasta, salads, and grilled meats with fresh herbs garnishing" class="w-full h-96 object-cover" />
         <div class="absolute inset-0 flex items-center justify-center">
-            
+
+          # Cart
+            <div class="text-center py-8" id="empty-cart-message">
+                    <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/5805bf41-14c9-4149-9bc8-51e6d154b0f7.png" alt="Empty cart illustration showing a shopping cart with a magnifying glass" class="mx-auto mb-4" />
+                    <p class="text-gray-500">Your cart is empty</p>
+                </div>
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
