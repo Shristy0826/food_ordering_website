@@ -9,6 +9,7 @@ Food Express is a web-based food ordering website that allows users to order del
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [License](#license)
 - [Contact](#contact)
 
@@ -51,17 +52,20 @@ Click on the cart icon to view selected items and proceed to checkout.
 Enter your delivery address and confirm your order.
 
 ## Screenshots
-# Home Page
+# Logo
   <div class="flex items-center space-x-2">
                 <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/82181ad0-fe9f-45c1-9b77-bac63ea5e709.png" alt="Food Express logo featuring a fast food delivery concept" class="w-10 h-10 rounded-full" />
                 <span class="text-xl font-bold text-gray-800">Food Express</span>
             </div>
-
-            #
-##License
+# Home Page
+  <div class="absolute inset-0 bg-black opacity-40"></div>
+        <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/7b6d78e0-5cc9-4c92-b7c6-ee57101d378c.png" alt="Delicious food spread including pasta, salads, and grilled meats with fresh herbs garnishing" class="w-full h-96 object-cover" />
+        <div class="absolute inset-0 flex items-center justify-center">
+            
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Contact
+## Contact
 For any inquiries or feedback, please contact:
 
 Email: shristys304@gmail.com
