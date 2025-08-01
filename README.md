@@ -8,7 +8,6 @@ Food Express is a web-based food ordering website that allows users to order del
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -37,6 +36,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
+   https://github.com/Shristy0826/food_ordering_website.git
    
 ##  Usage
 Navigate through the website using the navigation bar.
@@ -52,4 +52,5 @@ For any inquiries or feedback, please contact:
 
 Email: shristys304@gmail.com
 GitHub: Shristy0826
-Github Link:
+Github Link: https://github.com/Shristy0826/food_ordering_website.git
+Deployed Link: moonlit-taffy-a48ce8.netlify.app
