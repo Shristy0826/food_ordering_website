@@ -74,4 +74,4 @@ GitHub: Shristy0826
 
 Github Link: https://github.com/Shristy0826/food_ordering_website.git
 
-Deployed Link: moonlit-taffy-a48ce8.netlify.app
+Deployed Link: https://moonlit-taffy-a48ce8.netlify.app
